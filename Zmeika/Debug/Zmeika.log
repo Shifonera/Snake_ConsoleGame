@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\programs\microsoft visual studio\my projects\primer\zmeika\zmeika\source.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\programs\microsoft visual studio\my projects\primer\zmeika\zmeika\source.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Programs\Microsoft Visual Studio\My Projects\Primer\Zmeika\Debug\Zmeika.exe для записи
